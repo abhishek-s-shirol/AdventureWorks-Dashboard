@@ -51,10 +51,3 @@ This interactive report provides:
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm a Data Analyst passionate about building impactful dashboards and turning data into actionable insights.  
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
-
----
-
