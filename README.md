@@ -35,7 +35,7 @@ This interactive report provides:
 
 | File/Folder                         | Description                                  |
 |------------------------------------|----------------------------------------------|
-| [`AdventureWorks_Dashboard`](https://github.com/abhishek-s-shirol/AdventureWorks-Dashboard/blob/main/AdventureWorks.pbix)| Main Power BI report file                     |
+| [`AdventureWorks_Dashboard.pbix`](AdventureWorks_Dashboard.pbix) | Main Power BI report file                     |
 | [`Dataset/`](Dataset)              | Contains customer, sales, product, returns data |
 | [`Screenshots/`](Screenshots)      | Images of each dashboard page                |
 | [`AdventureWorks_Dashboard_Preview.pdf`](AdventureWorks_Dashboard_Preview.pdf) | Full dashboard as PDF (optional)             |
