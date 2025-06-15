@@ -45,7 +45,7 @@ This interactive report provides:
 ## 🖼️ Dashboard Preview
 
 ### Executive Summary  
-![Executive Dashboard](Screenshots/Executive Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 
 👉 [Download Full PDF Preview](AdventureWorks-Dashboard.pdf)
 
